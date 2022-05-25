@@ -1,0 +1,33 @@
+.navigation{
+    background-color: #49C2DD;
+    justify-content: center;
+    width: 15%;
+    height: 100vh;
+}
+
+
+.navigation-list ul{
+    list-style-type: none;
+}
+
+.navigation-list a{
+    color: rgb(0, 0, 0);
+    font-size: 150%;
+    margin-bottom: 8%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.navigation-list li{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10%;
+}
+
+
+.nav-img{
+    
+    margin: 10%;
+}
